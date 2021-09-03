@@ -8,10 +8,10 @@ in this repository. Changes can be applied otherwise.
 
 ## Philosophy
 
-After years and years of development, I (@jasontheadams) have come to realize that standards don't matter
-as much as wish they did. Whether there's a trailing comma, spaces vs tabs, curly bracket before or after
-the function, and so forth — people with all manners of formatting preferences manage to accomplish
-enterprise-level work.
+After years and years of development, I ([@jasontheadams](https://github.com/jasontheadams)) have come to
+realize that standards don't matter as much as wish they did. Whether there's a trailing comma, spaces vs
+tabs, curly bracket before or after the function, and so forth — people with all manners of formatting
+preferences manage to accomplish enterprise-level work.
 
 Ok. So why have a standard? One word: **consistency**.
 
