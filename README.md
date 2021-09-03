@@ -6,8 +6,16 @@ repository, its standardization files should match these. If they do not, they s
 If you have any standardization questions or suggestions, please create an Issue or Pull Request
 in this repository. Changes can be applied otherwise.
 
-For PHP, we stick as close to the PSR-12 standard as possible.
+## PHP Standards
+
+We use PSR-12. For ease of use with PhpStorm, just zip up the contents of the phpstorm directory
+and do File > Manage IDE Settings > Import Settings. Don't worry, it won't override themes or
+stuff like that, just inspections and code standards.
+
+## JS Standards
 
 For JS, please refer to the Prettier file.
+
+## Everything Else
 
 For all other files, the .editorconfig file addresses those.

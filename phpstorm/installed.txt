@@ -1,0 +1,17 @@
+AceJump
+IdeaVIM
+String Manipulation
+com.dmarcotte.handlebars
+com.intellij.ideolog
+com.intellij.lang.jsgraphql
+com.kalessil.phpStorm.phpInspectionsEA
+com.pestphp.pest-intellij
+de.beyondco.tinkerwell.tinkerwell
+de.espend.idea.laravel
+de.espend.idea.php.annotation
+fr.adrienbrault.idea.symfony2plugin
+intellij.prettierJS
+net.seesharpsoft.intellij.plugins.csv
+org.intellij.plugins.postcss
+org.jetbrains.IdeaVim-EasyMotion
+ru.adelf.idea.dotenv
