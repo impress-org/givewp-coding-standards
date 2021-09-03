@@ -26,16 +26,30 @@ So how do you choose a standard? This can be debated a bit, but my opinion is th
 be consistent within the industry, simply for the reason that it's nice to move from one organization to
 another and have consistent results. That is why how the following standards were selected.
 
-## PHP Standards
+## Standards
+
+### PHP Standards
 
 We use PSR-12. For ease of use with PhpStorm, just zip up the contents of the phpstorm directory
 and do File > Manage IDE Settings > Import Settings. Don't worry, it won't override themes or
 stuff like that, just inspections and code standards.
 
-## JS Standards
+### JS Standards
 
 We use [Prettier](https://prettier.io/) for JS, JSX and TS. Why? Because it's simple and opinionated.
 
-## Everything Else
+### Everything Else
 
 For all other files, Prettier and the .editorconfig file addresses those.
+
+## PhpStorm
+
+The preferred IDE of choice at GiveWP is PhpStorm. I have found time and again that the more people use
+it the more they like it. There are [awesome courses](https://laracasts.com/series/how-to-be-awesome-in-phpstorm)
+on setting up PhpStorm to your liking, which I suggest you check out.
+
+**Getting PhpStorm set up with the standards and reformat-on-save**
+
+https://user-images.githubusercontent.com/2024145/132073581-cb8e66f8-29bf-4e73-8c9d-e03339a8be1e.mp4
+
+
