@@ -24,7 +24,7 @@ that standard.
 
 So how do you choose a standard? This can be debated a bit, but my opinion is that the standard should
 be consistent within the industry, simply for the reason that it's nice to move from one organization to
-another and have consistent results. That is why how the following standards were selected.
+another and have consistent results. That is why and how the following standards were selected.
 
 ## Standards
 
